@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg">
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg">
 
-[![Mario Souto's github stats](https://github-readme-stats.vercel.app/api?username=omariosouto&theme=dark&show_icons=true&count_private=true)](https://github.com/omariosouto)
-
+<!--[![Mario Souto's github stats](https://github-readme-stats.vercel.app/api?username=omariosouto&theme=dark&show_icons=true&count_private=true)](https://github.com/omariosouto)
+-->
 
 
 
