@@ -1,32 +1,12 @@
-### Hi there 👋
+[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/rafaelsantosoliveira/)[![followersGit](https://img.shields.io/github/followers/rafaelsantos18?style=social)](https://github.com/rafaelsantos18) <img src="https://komarev.com/ghpvc/?username=rafaelsantos18&label=Profile%20views&color=0e75b6&style=social" alt="Rafael Santos De Oliveira"/>
 
-<!--
-**rafaelsantos18/rafaelsantos18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá, seja bem vindo!
 
-Here are some ideas to get you started:
+Meu nome é Rafael Santos De Oliveira, moro em São Paulo, Brasil.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/adrianoleitedasilva/) 
-[![followersGit](https://img.shields.io/github/followers/rafaelsantos?style=social)](https://github.com/adrianoleitedasilva)
+Atualmente sou trainee de programação na foursys.
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelsantos18&show_icons=true&locale=en" alt="Rafael Santos De Oliveira"/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsantos18&layout=compact)](https://github.com/rafaelsantos18)
-
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg">
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg">
-
-<!--[![Mario Souto's github stats](https://github-readme-stats.vercel.app/api?username=omariosouto&theme=dark&show_icons=true&count_private=true)](https://github.com/omariosouto)
--->
-
-
-
-
+#### Possuo conhecimento
+- Java
+- Python
+- Sql
