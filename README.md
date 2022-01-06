@@ -12,6 +12,6 @@
 - 💼 Atualmente sou programador trainee de java na foursys
 - 💎 Buscando ser um desenvolvedor cada vez melhor
 
-### Habilidades
+### Habilidades e conhecimentos
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
